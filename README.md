@@ -21,5 +21,4 @@
 <br>
 <h3 align="left">📩 Connect with me:</h3>
 <br>
-<a href="https://instagram.com/calikea" target="blank"><img align="center" src="https://www.svgrepo.com/show/13639/instagram.svg" alt="sara" height="30" width="40" /></a>
 <a href="https://t.me/saragholizadeh" target="blank"><img align="center" src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg" alt="sara" height="30" width="40" /></a>
