@@ -3,11 +3,11 @@
 <h3 align="center">A Backend Web developer from Iran</h3><br>
 
 
-- 👩‍💻 I'm junior but determined 
+- 👩‍💻 Junior but determined 
 
-- 🤓 I’m currently learning Node.js
+- 🤓 Currently learning NestJS
 
-- 💬 Ask me about Javascript, Node.js, Telegram bots, NoSQL Databases & Freelancing Opportunites
+- 💬 Ask me about Javascript, Node.js, NestJS, Telegram bots, NoSQL Databases & Freelancing Opportunites
 <br>
 <hr> 
 <br>
