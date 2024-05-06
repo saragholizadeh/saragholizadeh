@@ -7,7 +7,7 @@
 
 - 🤓 Currently learning NestJS
 
-- 💬 Ask me about Javascript, Node.js, NestJS, Telegram bots, NoSQL Databases & Freelancing Opportunites
+- 💬 Ask me about Javascript, TypeScript, Node.js, NestJS, Telegram bots, NoSQL Databases & Freelancing Opportunites
 <br>
 <hr> 
 <br>
@@ -18,7 +18,3 @@
 
 <br>
 <hr>
-<br>
-<h3 align="left">📩 Connect with me:</h3>
-<br>
-<a href="https://t.me/saragholizadeh" target="blank"><img align="center" src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg" alt="sara" height="30" width="40" /></a>
