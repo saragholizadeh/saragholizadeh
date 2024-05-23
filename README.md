@@ -1,6 +1,6 @@
 <h1 align="center">Greetings 🙋‍♂️, I'm Sara gholizadeh </h1> 
 
-<h3 align="center">A Backend Web developer from Iran</h3><br>
+<h3 align="center">A Backend developer from Iran</h3><br>
 
 
 - 👩‍💻 Junior but determined 
