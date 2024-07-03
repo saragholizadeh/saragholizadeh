@@ -1,9 +1,10 @@
-<h1 align="center">Greetings 🙋‍♂️, I'm Sara gholizadeh </h1> 
+<h1 align="center">Greetings 🙋‍♂️, I'm Sara Gholizadeh </h1> 
 
 <h3 align="center">A Backend developer from Iran</h3><br>
 
+- 👩‍💻 Recent graduate with a Bachelor's degree in Software Engineering
 
-- 👩‍💻 Junior but determined 
+- 🔭 +3 years of experience in Node.js
 
 - 🤓 Currently learning NestJS
 
