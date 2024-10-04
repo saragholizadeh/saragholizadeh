@@ -1,6 +1,6 @@
 <h1 align="center">Greetings 🙋‍♂️, I'm Sara Gholizadeh </h1> 
 
-<h3 align="center">A Backend developer from Iran</h3><br>
+<h3 align="center">A Backend develope</h3><br>
 
 - 👩‍💻 Recent graduate with a Bachelor's degree in Software Engineering
 
