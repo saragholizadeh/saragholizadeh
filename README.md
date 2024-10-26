@@ -4,7 +4,7 @@
 
 - 👩‍💻 Recent graduate with a Bachelor's degree in Software Engineering
 
-- 🔭 +3 years of experience in Node.js
+- 🔭 Extensive years of experience in Node.js
 
 - 🤓 Currently learning NestJS
 
