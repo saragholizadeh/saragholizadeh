@@ -27,3 +27,7 @@
 
 <br>
 <hr>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=saragholizadeh&label=Profile%20Views&color=0&icon=1&pretty=false" />
+</a>
+<hr>
