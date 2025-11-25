@@ -1,7 +1,8 @@
-<p>Hey, I'm Sara, from Tehran, Iran and I'm currently looking for a job to relocate :) </p>
-<p>I graduated in Software engineering, worked these years as a ***backend developer*** but now I'm trying to learn deeper to be a ***software engineer*** :) </p>
+<p>Hey, I'm Sara :) </p>
+I graduated in Software Engineering, spent a few years as a backend developer, and now I'm diving deeper to level up as a software engineer
 
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
+
 
 <h3>Things I code with</h3>
 <p>
@@ -31,6 +32,14 @@
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 </p>
 
+
+- 🌱 **Currently Learning:** Deepening my understanding of software architecture
+- 👩‍💻 **Exploring:** Algorithms and advanced problem-solving strategies  
+- 💎 **Strengths:** Hard work, quick adaptation, and a fun spirit :D  
+- 💻 **Passion:** Tackling challenging problems in database design
+- 🌍 **Looking For:** Opportunities for relocation while expanding my DevOps and frontend skills
+- 🗣 **English Level:** Good enough to work together :>
+- 📍 **Location:** Iran
 
 <h3>Where to find me</h3>
 </a> <a href="https://www.linkedin.com/in/saragholizadeh/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@saragholizadeh1999" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
